@@ -12,6 +12,11 @@ Max and Min Heap Implementation
 3.) Get Min. or Max. value:
 #### O(1)
 
+# STL Implementation
+1.) STL Implementation can of heaps is with the priority_queue container.
+
+https://www.geeksforgeeks.org/implement-min-heap-using-stl/
+
 # Heap General Implementation Notes
 1.) Heaps are implemented in arrays/vectors much more easily thank link list implementations.
 
