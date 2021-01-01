@@ -4,13 +4,13 @@ Max and Min Heap Implementation
 # Heap Run Complexity
 
 1.) Delete element:
-### O(Log n)
+#### O(Log n)
 
 2.) Insert Element:
-### O(Log n)
+#### O(Log n)
 
 3.) Get Min. or Max. value:
-### O(1)
+#### O(1)
 
 # Heap General Implementation Notes
 1.) Heaps are implemented in arrays/vectors much more easily thank link list implementations.
