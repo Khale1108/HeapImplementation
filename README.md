@@ -11,6 +11,7 @@ https://www.geeksforgeeks.org/virtual-function-cpp/#:~:text=A%20virtual%20functi
   * Public - Members are accessible from outside the class.
   * Private - Members cannot be accessed or viewed from outside the class.
   * Protected - Members cannot be accessed from outside the class, however, they can be accessed from inherited classes.
+* Friend Class/Function - A friend class can access private or protected elements of a class.
 
 ## Heap Run Complexity
 
