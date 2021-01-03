@@ -12,6 +12,8 @@ https://www.geeksforgeeks.org/virtual-function-cpp/#:~:text=A%20virtual%20functi
   * Private - Members cannot be accessed or viewed from outside the class.
   * Protected - Members cannot be accessed from outside the class, however, they can be accessed from inherited classes.
 * Friend Class/Function - A friend class can access private or protected elements of a class.
+* Operator Overloading - Overload standard library C++ operators with the operator keyword. An example would be for <<, <, or ++ operators.
+* Copy Constructor - A constructor that is created to handle copying of an object when another object of the same type is assigned to it. This is done by default by the compiler, but can be done explicitly.
 
 ## Heap Run Complexity
 
